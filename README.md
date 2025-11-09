@@ -1,6 +1,4 @@
-# 🎭 WorklyHQ
-
-**Créez votre propre Desktop-Mate personnalisé !**
+# WorklyHQ
 
 ---
 
@@ -66,8 +64,6 @@ Documentation complète, guides techniques, et tutoriels.
 
 ## 🎯 Roadmap
 
-**Phase actuelle : Audio & Interactions** 🚧
-
 - [x] Avatar VRM 3D interactif
 - [x] Expressions faciales dynamiques
 - [x] Chat IA avec LLM local
@@ -105,13 +101,13 @@ Nous accueillons les contributions ! Consultez nos repos pour :
 
 - 🐙 **GitHub :** [@WorklyHQ](https://github.com/WorklyHQ)
 - 🌐 **Web :** [workly.xyon.site.elsites.fr](https://workly.xyon.site.elsites.fr)
-- 📧 **Email :** [À venir]
+- 📧 **Email :**
 
 ---
 
 ## 📜 License
 
-**En cours de définition** - Le projet sera open source prochainement.
+**En cours de définition** 
 
 ---
 
