@@ -33,8 +33,11 @@ Documentation complète, guides techniques, et tutoriels.
 ## ✨ Ce qui rend Workly unique
 
 🎭 **Avatars VRM personnalisables** - Utilisez n'importe quel modèle VRM
+
 🤖 **IA conversationnelle locale** - Pas besoin de cloud, tout fonctionne sur votre PC
+
 😊 **Expressions émotionnelles** - Synchronisation automatique avec l'analyse de sentiment
+
 🔒 **Confidentialité** - Vos données restent sur votre machine
 
 ---
