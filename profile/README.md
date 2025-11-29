@@ -125,7 +125,16 @@ Nous accueillons les contributions ! Consultez nos repos pour :
 
 ## 📜 License
 
-**En cours de définition**
+Ce projet est sous licence **Propriétaire** - Le code source n'est pas disponible publiquement.
+
+- 📦 **Distribution** : Application fournie en binaire uniquement
+- 🔒 **Code privé** : Repositories privés, pas d'accès au code source
+- ✅ **Usage personnel** : Libre et gratuit une fois publié
+- ❌ **Usage commercial** : Interdit sans licence commerciale
+
+📧 **Intéressé par une licence commerciale ?** Contactez [worklyhq@gmail.com](mailto:worklyhq@gmail.com)
+
+💡 **Note** : La documentation publique ([workly-docs](https://github.com/WorklyHQ/workly-docs)) et le showcase ([workly-public](https://github.com/WorklyHQ/workly-public)) restent ouverts pour apprendre et comprendre le projet
 
 ---
 
