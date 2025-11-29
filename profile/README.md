@@ -107,7 +107,7 @@ Nous accueillons les contributions ! Consultez nos repos pour :
 
 - 🐙 **GitHub :** [@WorklyHQ](https://github.com/WorklyHQ)
 - 🌐 **Web :** [workly.xyon.site.elsites.fr](https://workly.xyon.site.elsites.fr)
-- 📧 **Email :**
+- 📧 **Email :**[worklyhq@gmail.com](mailto:worklyhq@gmail.com)
 
 ---
 
