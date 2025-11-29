@@ -37,11 +37,14 @@ Documentation complète, guides techniques, et tutoriels.
 ## ✨ Ce qui rend Workly unique
 
 - 🎭 **Avatars VRM personnalisables** - Utilisez n'importe quel modèle VRM (VRoid, VSeeFace compatible)
-- 🤖 **IA conversationnelle locale** - Pas besoin de cloud, tout fonctionne sur votre PC
-- 😊 **Expressions émotionnelles** - 14 blendshapes avec transitions fluides
+- 🤖 **IA conversationnelle locale** - Pas besoin de cloud, tout fonctionne sur votre PC (Zephyr-7B)
+- 😊 **Expressions émotionnelles** - 14 blendshapes avec transitions fluides et animations automatiques
+- 🧠 **Personnalité évolutive** - Système de traits de personnalité qui s'adaptent avec SQLite
+- 🗄️ **Mémoire persistante** - Conversations, émotions et apprentissages sauvegardés (SQLite)
+- 🎮 **Optimisations avancées** - Auto-détection GPU, profils performance, cache LLM
 - 🎮 **Démos fonctionnelles** - 4 exemples prêts à l'emploi (chatbot, VRM, Discord, mémoire)
-- 🔒 **Confidentialité** - Vos données restent sur votre machine
-- 📚 **Documentation complète** - Guides, API, tutoriels pas-à-pas
+- 🔒 **Confidentialité totale** - Vos données restent sur votre machine (100% local)
+- 📚 **Documentation complète** - 16 sessions documentées, guides, API, tutoriels pas-à-pas
 
 ---
 
@@ -62,8 +65,10 @@ Documentation complète, guides techniques, et tutoriels.
 ## 📊 Stats
 
 ![GitHub Org Stars](https://img.shields.io/github/stars/WorklyHQ?style=social)
-![Repos](https://img.shields.io/badge/Repos-3-blue)
+![Repos](https://img.shields.io/badge/Repos-4-blue)
 ![Status](https://img.shields.io/badge/Status-Active%20Development-brightgreen)
+![Sessions](https://img.shields.io/badge/Sessions-16%20Completed-success)
+![Version](https://img.shields.io/badge/Version-0.19.0--alpha-blue)
 
 ---
 
@@ -73,11 +78,18 @@ Documentation complète, guides techniques, et tutoriels.
 - [x] Expressions faciales dynamiques
 - [x] Chat IA avec LLM local
 - [x] Analyse d'émotions
+- [x] Système de mémoire SQLite
+- [x] Personnalité évolutive
 - [x] Showcase public avec démos
+- [x] Intégration Discord complète
+- [x] Interface GPU Profiles
+- [x] Site web professionnel
+- [x] Optimisations performance (Mémoire/CPU/GPU)
+- [x] Migration SQLite complète (16 sessions documentées)
 - [ ] Text-to-Speech (TTS)
 - [ ] Lip-sync avec visèmes
 - [ ] Mouvement libre sur le bureau
-- [ ] Intégration Discord avancée
+- [ ] Packaging & Distribution
 
 ---
 
